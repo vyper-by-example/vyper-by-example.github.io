@@ -23,7 +23,7 @@ function Header() {
             <Vyper
               className={styles.logo}
               size={30}
-              fill={state.theme == "dark" ? "rgb(255, 0, 255)" : "currentColor"}
+              fill="#9F4CF2"
             />
           </a>
           <h3 className={styles.header}>
